@@ -1,0 +1,343 @@
+{
+  "brand": "Vela",
+  "currency": "INR",
+  "products": [
+    {
+      "id": "VL-TEE-001",
+      "name": "Boxy Heavyweight Pump Cover Tee",
+      "category": "tops",
+      "price_inr": 4490,
+      "price_usd": 55,
+      "fit": "oversized heavyweight",
+      "gsm": 310,
+      "fabric": "310 GSM combed organic French cotton",
+      "occasions": [
+        "gym",
+        "streetwear",
+        "lifting",
+        "powerlifting",
+        "casual",
+        "college",
+        "crossover"
+      ],
+      "aesthetic": "heavyweight, drop-shoulder, boxy fit, clean tonal finish",
+      "description": "Crafted from custom-milled 310 GSM combed organic French cotton with a sharp drop-shoulder drape that hangs without clinging. Moves freely through compound lifts, breathes on a run, and finishes a casual street look after training.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "complementary_accessory_id": "VL-ACC-001",
+      "rating": 4.8,
+      "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-JOG-002",
+      "name": "Hybrid Utility Cargo Joggers",
+      "category": "bottoms",
+      "price_inr": 7990,
+      "price_usd": 98,
+      "fit": "oversized heavyweight",
+      "gsm": 280,
+      "fabric": "Water-repellent 4-way stretch ripstop & matte ballistic nylon",
+      "occasions": [
+        "gym",
+        "streetwear",
+        "travel",
+        "airport",
+        "casual",
+        "crossover"
+      ],
+      "aesthetic": "relaxed oversized taper, utility cargo pockets, magnetic flaps",
+      "description": "Gym-to-street crossover with a relaxed oversized taper, reinforced gusseted seams for deep squats, and waterproof zippered pockets for phone and passport. Clean modern silhouette for travel days and training.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "complementary_accessory_id": "VL-ACC-001",
+      "rating": 4.7,
+      "image_url": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-HD-003",
+      "name": "Thermal Oversized Zip Hoodie",
+      "category": "outerwear",
+      "price_inr": 9490,
+      "price_usd": 115,
+      "fit": "oversized heavyweight",
+      "gsm": 480,
+      "fabric": "480 GSM thermal loopback French terry",
+      "occasions": [
+        "streetwear",
+        "gym",
+        "travel",
+        "airport",
+        "outdoor",
+        "cold weather",
+        "loungewear"
+      ],
+      "aesthetic": "double-layered structured hood, articulated shoulders, dual matte zips",
+      "description": "Ultra-dense 480 GSM thermal loopback fleece with a structured hood that holds its shape and articulated shoulders for an expansive upper-body silhouette. Insulates outdoors and looks sharp on the street.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "complementary_accessory_id": "VL-ACC-002",
+      "rating": 4.9,
+      "image_url": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-SWT-006",
+      "name": "450 GSM French Terry Relaxed Sweatpants",
+      "category": "bottoms",
+      "price_inr": 6990,
+      "price_usd": 85,
+      "fit": "oversized heavyweight",
+      "gsm": 450,
+      "fabric": "450 GSM brushed ultra-soft loopback cotton",
+      "occasions": [
+        "loungewear",
+        "travel",
+        "airport",
+        "casual",
+        "streetwear",
+        "rest day"
+      ],
+      "aesthetic": "wide leg relaxed stack, concealed drawstrings, soft pocket trims",
+      "description": "Built for long flights, airport days, and rest-day lounging. Heavyweight drape stacks cleanly over sneakers without bunching \u2014 soft, structured comfort.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "complementary_accessory_id": "VL-ACC-003",
+      "rating": 4.6,
+      "image_url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-CRW-007",
+      "name": "Minimalist Boxy Heavyweight Crewneck",
+      "category": "tops",
+      "price_inr": 6490,
+      "price_usd": 78,
+      "fit": "oversized heavyweight",
+      "gsm": 400,
+      "fabric": "400 GSM custom-spun organic fleece cotton",
+      "occasions": [
+        "streetwear",
+        "casual",
+        "college",
+        "travel",
+        "night out",
+        "loungewear"
+      ],
+      "aesthetic": "clean architectural crew collar, tonal branding, boxy torso",
+      "description": "Quiet luxury with wide boxy shoulders and a snug ribbed hem. Free of loud branding \u2014 pairs with cargos or sweatpants for an elevated everyday fit.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "complementary_accessory_id": "VL-ACC-002",
+      "rating": 4.8,
+      "image_url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-WND-008",
+      "name": "Modular Tech Windbreaker Shell",
+      "category": "outerwear",
+      "price_inr": 8490,
+      "price_usd": 105,
+      "fit": "streamlined athletic",
+      "gsm": 180,
+      "fabric": "DWR-coated 3-layer breathable ripstop nylon",
+      "occasions": [
+        "outdoor",
+        "trail",
+        "hiking",
+        "running",
+        "cold weather",
+        "travel"
+      ],
+      "aesthetic": "packable storm hood, waterproof zips, reflective seam taping",
+      "description": "Light, windproof, and water-resistant for trail runs and city weather. Articulated underarm gussets keep movement unrestricted when you need it most.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "complementary_accessory_id": "VL-ACC-001",
+      "rating": 4.5,
+      "image_url": "https://images.unsplash.com/photo-1544923246-77307dd65489?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-TEE-004",
+      "name": "Compression Seamless Baselayer",
+      "category": "tops",
+      "price_inr": 3490,
+      "price_usd": 42,
+      "fit": "streamlined athletic",
+      "gsm": 220,
+      "fabric": "Polyamide-Elastane moisture-wicking engineered knit",
+      "occasions": [
+        "gym",
+        "running",
+        "cardio",
+        "crossfit",
+        "sports"
+      ],
+      "aesthetic": "sleek body-mapped contours, reflective branding",
+      "description": "Body-mapped ventilation and supportive compression for cardio, sparring, and high-output sessions. Stays cool when heart rates peak.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "complementary_accessory_id": "VL-ACC-003",
+      "rating": 4.4,
+      "image_url": "https://images.unsplash.com/photo-1483721310020-03333e577078?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-TNK-009",
+      "name": "Raw-Cut Powerlifting Stringer",
+      "category": "tops",
+      "price_inr": 2990,
+      "price_usd": 36,
+      "fit": "oversized heavyweight",
+      "gsm": 260,
+      "fabric": "260 GSM breathable raw-edge washed cotton",
+      "occasions": [
+        "gym",
+        "lifting",
+        "powerlifting",
+        "bodybuilding"
+      ],
+      "aesthetic": "deep drop armholes, raw edge hem, reinforced collar",
+      "description": "Designed for heavy iron. Generous armhole cutouts maximize lat spread and shoulder clearance for bench and overhead presses.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "complementary_accessory_id": "VL-ACC-003",
+      "rating": 4.3,
+      "image_url": "https://images.unsplash.com/photo-1581009146145-b5ef0757efd1?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-SHT-005",
+      "name": "5\" Pace Split Running Shorts",
+      "category": "bottoms",
+      "price_inr": 3990,
+      "price_usd": 49,
+      "fit": "streamlined athletic",
+      "gsm": 140,
+      "fabric": "Featherlight 4-way stretch micro-mesh with built-in anti-chafe liner",
+      "occasions": [
+        "running",
+        "gym",
+        "cardio",
+        "sports"
+      ],
+      "aesthetic": "minimalist side-split hem, stealth bounce-free phone pocket",
+      "description": "Laser-cut split hem for friction-free strides, interior bounce-free phone pocket, and rapid-dry finish for pace days.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "complementary_accessory_id": "VL-ACC-003",
+      "rating": 4.6,
+      "image_url": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-ACC-001",
+      "name": "Modular Sling / Gym Duffle",
+      "category": "accessories",
+      "price_inr": 3990,
+      "price_usd": 49,
+      "fit": "one size",
+      "gsm": null,
+      "fabric": "Waterproof Cordura ballistic nylon with matte black carabiners",
+      "occasions": [
+        "gym",
+        "streetwear",
+        "travel",
+        "airport",
+        "crossover"
+      ],
+      "aesthetic": "modular webbing, magnetic quick-release buckles, ventilated shoe garage",
+      "description": "Waterproof Cordura ballistic nylon with aerospace-grade carabiners and magnetic quick-release buckles. Isolated ventilated compartment for trainers, plus padded tech sleeves.",
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "complementary_accessory_id": null,
+      "rating": 4.7,
+      "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-ACC-002",
+      "name": "Heavyweight Distressed Cap",
+      "category": "accessories",
+      "price_inr": 1990,
+      "price_usd": 25,
+      "fit": "adjustable",
+      "gsm": null,
+      "fabric": "100% heavy washed cotton twill",
+      "occasions": [
+        "streetwear",
+        "gym",
+        "casual",
+        "crossover"
+      ],
+      "aesthetic": "low profile unstructured 6-panel, tonal embroidery",
+      "description": "Washed cotton dad cap with a soft vintage fade, tonal Vela embroidery, and antique brass buckle adjustment.",
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "complementary_accessory_id": null,
+      "rating": 4.5,
+      "image_url": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=900&q=80"
+    },
+    {
+      "id": "VL-ACC-003",
+      "name": "Crew Performance Socks (3-Pack)",
+      "category": "accessories",
+      "price_inr": 1490,
+      "price_usd": 18,
+      "fit": "regular",
+      "gsm": null,
+      "fabric": "Cushioned combed cotton blend with arch compression band",
+      "occasions": [
+        "gym",
+        "running",
+        "streetwear",
+        "travel"
+      ],
+      "aesthetic": "chunky ribbed athletic tube with jacquard Vela mark",
+      "description": "High-density cushioned soles for impact days, reinforced heel and toe, and engineered arch support that stays put.",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "complementary_accessory_id": null,
+      "rating": 4.4,
+      "image_url": "https://images.unsplash.com/photo-1586350977771-b3b0abd50d82?auto=format&fit=crop&w=900&q=80"
+    }
+  ],
+  "faq": {
+    "shipping": "Orders are processed within 24 hours and shipped via Express Air Priority. Metro deliveries arrive in 2\u20133 business days. Free standard shipping applies to all orders over \u20b92,999.",
+    "returns": "We offer a 14-day zero-friction exchange and return policy. Items must be unworn with tags attached. Reverse pickup is scheduled straight from your doorstep.",
+    "sizing": "Our pieces feature architectural oversized cuts designed with drop shoulders and generous chest volume. If you prefer the intended streetwear drape, take your true size. For a more standard fit, size down one."
+  }
+}

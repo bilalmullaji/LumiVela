@@ -1,0 +1,8 @@
+# Vela AI - Requirements
+fastapi>=0.115.0
+uvicorn>=0.30.0
+langchain>=1.4.0
+langgraph>=1.2.0
+pydantic>=2.10.0
+rich>=15.0.0
+python-dotenv>=1.2.0

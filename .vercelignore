@@ -1,0 +1,10 @@
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+.git
+.DS_Store
+tests
+*.md
+cli.py
+start.bat
